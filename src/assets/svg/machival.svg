@@ -1,0 +1,13 @@
+<svg width="150" height="50" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Machival Logo</title>
+  <rect fill="#fff" id="canvas_background" height="52" width="152" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Machival Logo</title>
+  <text x="0" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="30" id="svg_2" y="33.5" stroke-width="0" stroke="#000" fill="#000000">machival.</text>
+ </g>
+</svg>
